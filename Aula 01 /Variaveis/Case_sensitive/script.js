@@ -5,8 +5,11 @@
 
 
 var product = "Teclado Mecanico"
+var Product = "Mouse Gamer"
 
-console.log(price);
+
+console.log(product);
+console.log(Product);
 
 
 
